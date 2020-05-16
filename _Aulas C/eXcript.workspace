@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="IDE/IDE.cbp" />
+		<Project filename="Compilação/Compilação/Compilação.cbp" />
+		<Project filename="aula6/aula6.cbp" />
+		<Project filename="aula8/aula8.cbp" />
+		<Project filename="aula9/aula9.cbp" />
+		<Project filename="aula10/aula10.cbp" />
+		<Project filename="aula11/aula11.cbp" />
+		<Project filename="aula12/aula12.cbp" />
+		<Project filename="aula13/aula13.cbp" />
+		<Project filename="aula14/aula14.cbp" />
+		<Project filename="aula15/aula15.cbp" />
+		<Project filename="aula16/aula16.cbp" />
+		<Project filename="aula17/aula17.cbp" />
+		<Project filename="aula18/aula18.cbp" />
+		<Project filename="aula19/aula19.cbp" />
+		<Project filename="aula20/aula20.cbp" />
+		<Project filename="aula21/aula21.cbp" />
+		<Project filename="aula22/aula22.cbp" />
+		<Project filename="aula23/aula23.cbp" />
+		<Project filename="aula24/aula24.cbp" />
+		<Project filename="aula25/aula25.cbp" />
+		<Project filename="aula26/aula26.cbp" />
+		<Project filename="aula27/aula27.cbp" />
+		<Project filename="aula28/aula28.cbp" />
+		<Project filename="aula29/aula29.cbp" />
+		<Project filename="CalculadorQueEuFizMuitoMassa/CalculadorQueEuFizMuitoMassa.cbp" />
+		<Project filename="aula30/aula30.cbp" />
+		<Project filename="aula31/aula31.cbp" />
+		<Project filename="aula32/aula32.cbp" />
+		<Project filename="aula33/aula33.cbp" />
+		<Project filename="aula34/aula34.cbp" />
+		<Project filename="aula35/aula35.cbp" />
+		<Project filename="TabuadaManeira/TabuadaManeira.cbp" />
+		<Project filename="aula36/aula36.cbp" />
+		<Project filename="2question/2question.cbp" />
+		<Project filename="5question/5question.cbp" />
+		<Project filename="7question/7question.cbp" />
+		<Project filename="14question/14question.cbp" />
+		<Project filename="aula39/aula39.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
